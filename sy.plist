@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://192.168.1.104:9001/sy0322.ipa</string>
+						<string>http://113.108.191.146:5013/kmappmanage/api/getapp</string>
 					</dict>
 				</array>
 				<key>metadata</key>
